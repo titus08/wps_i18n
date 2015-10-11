@@ -93,11 +93,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">Stil întunecat 2-accentuare 5/accentuare 2 {2-?} {1/?}</translation>
+        <translation>Stil întunecat 2-accentuare 1/accentuare 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">Stil întunecat 2-accentuare 5/accentuare 4 {2-?} {3/?}</translation>
+        <translation>Stil întunecat 2-accentuare 3/accentuare 4</translation>
     </message>
 </context>
 <context>

@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>No thanks.</source>
-        <translation>Nu, mulțumesc.</translation>
+        <translation>Nu mulțumesc.</translation>
     </message>
     <message>
         <source>WPS Office Recommendation</source>

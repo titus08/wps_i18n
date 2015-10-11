@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Downloading cloud font, click the font list to see more detail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descarcă fontul din nor, apăsați lista fonturilor pentru a vedea mai multe detalii.</translation>
     </message>
 </context>
 <context>
@@ -392,7 +392,7 @@
     </message>
     <message>
         <source>FileName or PathName is longger than 218 characters!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume fișier sau nume cale este mai lung decât 218 caractere!</translation>
     </message>
 </context>
 <context>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat salvarea numărului serial. Verificați dacă aveți sau nu permisiuni de administrator.</translation>
     </message>
 </context>
 <context>
@@ -588,7 +588,7 @@
     </message>
     <message>
         <source>Incorrect password. Please re-enter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parolă incorectă. Introduceți din nou.</translation>
     </message>
 </context>
 <context>
@@ -623,7 +623,7 @@
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Comută ferestrele</translation>
     </message>
 </context>
 <context>
@@ -1151,15 +1151,15 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatorii cu permisiuni de citire pot citi acest document, dar nu pot modifica, tipări sau copia conținutul.</translation>
     </message>
     <message>
         <source>Give all users Read access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dă tuturor utilizatorilor acces de citire</translation>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dă tuturor utilizatorilor acces de modificare</translation>
     </message>
 </context>
 <context>
@@ -1358,7 +1358,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>????????????? WPS Office ????</source>
-        <translation type="unfinished"></translation>
+        <translation>????????????? WPS Office ????</translation>
     </message>
 </context>
 <context>
@@ -1388,19 +1388,19 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Liber</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Pătrat</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
 </context>
 <context>
@@ -1716,11 +1716,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Pyramid Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă piramidă</translation>
     </message>
     <message>
         <source>Venn Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama Venn</translation>
     </message>
 </context>
 <context>
@@ -1863,7 +1863,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>编辑字典</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑字典</translation>
     </message>
 </context>
 <context>
@@ -2244,11 +2244,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Require Http authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Este necesară autentificarea Http</translation>
     </message>
     <message>
         <source>Enter your username and password to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți numele de utilizator și parola pentru autentificare.</translation>
     </message>
 </context>
 <context>
@@ -2572,7 +2572,7 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
     </message>
     <message>
         <source>File Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrare fișier</translation>
     </message>
     <message>
         <source>Please select the files you wish to remove from the recent document list, then press Delete. 
@@ -2781,13 +2781,17 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+timp modificare:</translation>
     </message>
     <message>
         <source>
 
 This record is invalid. The file has been renamed,deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Această înregistrare nu este validă, fișierul este posibil să fie redenumit,șters sau mutat.</translation>
     </message>
 </context>
 <context>
@@ -3677,7 +3681,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>WPS members can access to more than 300 cloud fonts, updated monthly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Membrii WPS pot accesa mai mult de 300 de fonturi pe nor, actualizate lunar.</translation>
     </message>
 </context>
 <context>
@@ -3777,7 +3781,7 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>Downloading, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se descarcă, așteptați...</translation>
     </message>
     <message>
         <source>Upgrade to use VIP-only fonts.</source>
@@ -3793,7 +3797,7 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>Hide cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde fonturile nor</translation>
     </message>
     <message>
         <source>Click to keep a cloud font on top</source>
@@ -3848,11 +3852,11 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>You can also download</source>
-        <translation type="unfinished"></translation>
+        <translation>De asemenea puteți descărca</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation type="unfinished">Intrare mod vizualizator</translation>
+        <translation>Intrare mod vizualizator</translation>
     </message>
 </context>
 <context>
@@ -3942,7 +3946,7 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>Users can request additional per&amp;missions from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatorii pot solicita per&amp;misiuni suplimentare de la:</translation>
     </message>
 </context>
 <context>
@@ -4360,32 +4364,37 @@ fișierul este posibil să fie redenumit,șters sau mutat.</translation>
     </message>
     <message>
         <source>Clear in one click</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță cu un click</translation>
     </message>
     <message>
         <source>Clear &amp;all selected records</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță &amp;toate înregistrările selectate</translation>
     </message>
     <message>
         <source>Clear &amp;all invalid records</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță &amp;toate înregistrările nevalide</translation>
     </message>
     <message>
         <source>
 
 Modified time: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Timp modificare:</translation>
     </message>
     <message>
         <source>
 
 This record is invalid. The file has been renamed,deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Această înregistrare nu este validă. Fișierul a fost redenumit, șters sau mutat.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; cannot be opened.
 It has been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; nu poate fi deschis.
+A fost redenumit, șters sau mutat.</translation>
     </message>
 </context>
 <context>
@@ -4453,15 +4462,15 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatorii cu permisiuni de citire pot citi acest document, dar nu pot modifica, tipări sau copia conținutul.</translation>
     </message>
     <message>
         <source>Give all users Read access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dă tuturor utilizatorilor acces de citire</translation>
     </message>
     <message>
         <source>Give all users Change access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dă tuturor utilizatorilor acces de modificare</translation>
     </message>
 </context>
 <context>
@@ -4527,11 +4536,11 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>(Custom)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Personalizat)</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Încărcare</translation>
     </message>
 </context>
 <context>
@@ -4667,7 +4676,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Solution</source>
-        <translation type="unfinished"></translation>
+        <translation>Soluție</translation>
     </message>
 </context>
 <context>
@@ -4826,7 +4835,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Recently edited documents recovered from unexpected exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentele editate recent au fost recuperate de la o ieșire neașteptată.</translation>
     </message>
 </context>
 <context>
@@ -4940,24 +4949,29 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți caseta de dialog administrare fișiere recente și eliminați unele sau toate fișierele recente.</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide &quot;%1&quot;.
+Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>
 
 Modified time:</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Timp modificare:</translation>
     </message>
     <message>
         <source>
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Înregistrare nevalidă. Acest fișier a fost redenumit, șters sau mutat.</translation>
     </message>
 </context>
 <context>
@@ -5037,7 +5051,8 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     <message>
         <source>&quot;%1&quot; cannot be opened.
 It has been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; nu poate fi deschis.
+A fost redenumit, șters sau mutat.</translation>
     </message>
 </context>
 <context>
@@ -5920,7 +5935,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished">WPS</translation>
+        <translation>WPS</translation>
     </message>
 </context>
 <context>
@@ -5939,7 +5954,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished">WPS</translation>
+        <translation>WPS</translation>
     </message>
 </context>
 <context>
