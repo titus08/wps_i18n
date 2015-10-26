@@ -980,7 +980,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1495,7 +1495,7 @@
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire</translation>
     </message>
     <message>
         <source>Show</source>
@@ -1531,7 +1531,7 @@
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată introducerile și ștergerile</translation>
     </message>
     <message>
         <source>Show Reviewers</source>
@@ -1562,7 +1562,7 @@
     <name>classics.shadow_settings</name>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -1820,7 +1820,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -2436,7 +2436,7 @@ Editor</translation>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
@@ -2444,11 +2444,11 @@ Editor</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemă XML</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Structură XML</translation>
     </message>
 </context>
 <context>
@@ -3041,7 +3041,7 @@ text</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrare credite</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
@@ -3113,11 +3113,11 @@ text</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisiune restricționată de om</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acces restricționat</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3145,11 +3145,11 @@ text</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acces nerestricționat</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare permisiuni</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -3181,7 +3181,7 @@ text</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document WPS Writer 2007-2010</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -4283,7 +4283,7 @@ de pagină</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -4568,7 +4568,7 @@ text</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Font</source>
@@ -4858,7 +4858,7 @@ pozele</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5416,7 +5416,7 @@ Pornit/Oprit</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducere în chineză</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5548,7 +5548,7 @@ nou</translation>
     </message>
     <message>
         <source>Show Format Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată modificare format</translation>
     </message>
     <message>
         <source>Show FormatChange</source>
@@ -5560,7 +5560,7 @@ nou</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată introducerile și ștergerile</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -5952,7 +5952,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -6279,7 +6279,7 @@ umbră</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -6789,7 +6789,7 @@ pornit/oprit</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -7640,7 +7640,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation>Funcții speciale</translation>
+        <translation>Caracteristici speciale</translation>
     </message>
     <message>
         <source>Text Tools</source>
@@ -7667,7 +7667,7 @@ Cuvânt stilizat</translation>
     <name>popupmenu</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pct</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
@@ -7675,7 +7675,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pct</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
@@ -7683,7 +7683,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pct</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -7691,7 +7691,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pct</translation>
     </message>
     <message>
         <source>1 pt.</source>
@@ -7707,7 +7707,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pct</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -7719,7 +7719,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pct</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
@@ -7731,7 +7731,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pct</translation>
     </message>
     <message>
         <source>3 pt.</source>
@@ -7743,7 +7743,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pct</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
@@ -7755,7 +7755,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pct</translation>
     </message>
     <message>
         <source>6 pt.</source>
@@ -8185,7 +8185,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -8371,7 +8371,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -8403,7 +8403,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Întoarce orizontal</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
@@ -8411,7 +8411,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Întoarce vertical</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
@@ -8702,7 +8702,7 @@ formatare</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil linie</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
@@ -8714,11 +8714,11 @@ formatare</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -8738,7 +8738,7 @@ formatare</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrare credite</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -8954,7 +8954,7 @@ formatare</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linii modelate</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -9074,7 +9074,7 @@ formatare</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisiune restricționată de om</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -9446,7 +9446,7 @@ formatare</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare permisiuni</translation>
     </message>
     <message>
         <source>View Shortcut</source>
@@ -9701,7 +9701,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Inside Border</source>
@@ -9880,7 +9880,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
@@ -9888,11 +9888,11 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>XmlSchema</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemă XML</translation>
     </message>
     <message>
         <source>XmlStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Structură XML</translation>
     </message>
 </context>
 <context>
@@ -10091,7 +10091,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -10427,7 +10427,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrare credite</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
@@ -10499,11 +10499,11 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisiune restricționată de om</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acces restricționat</translation>
     </message>
     <message>
         <source>Save</source>
@@ -10531,11 +10531,11 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acces nerestricționat</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare permisiuni</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -10567,7 +10567,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document WPS Writer 2007-2010</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -10848,7 +10848,7 @@ antet și subsol</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Find and Replace</source>
@@ -11226,7 +11226,7 @@ antet și subsol</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți poză online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -12137,7 +12137,7 @@ text</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -12667,7 +12667,7 @@ text</translation>
     </message>
     <message>
         <source>Accept Changes Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Accept modificările selectate</translation>
     </message>
     <message>
         <source>Accept Selection Change</source>
@@ -12796,15 +12796,15 @@ text</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire orizontal</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire vertical</translation>
     </message>
     <message>
         <source>Show</source>
@@ -12832,7 +12832,7 @@ text</translation>
     </message>
     <message>
         <source>Show Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată formatarea</translation>
     </message>
     <message>
         <source>Show InsAndDel</source>
@@ -12840,7 +12840,7 @@ text</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată introducerile și ștergerile</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -13188,7 +13188,7 @@ pagini</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -13909,7 +13909,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -14336,7 +14336,7 @@ umbră</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -14739,7 +14739,7 @@ umbră</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation>Funcții speciale</translation>
+        <translation>Caracteristici speciale</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -14770,7 +14770,7 @@ umbră</translation>
     <name>wordtools</name>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
-        <translation type="unfinished">Comută la modul paragraf gol despărțit</translation>
+        <translation>Comută la modul paragraf gol despărțit</translation>
     </message>
     <message>
         <source>Convert Paragraph Indent to Space</source>
@@ -14987,7 +14987,7 @@ umbră</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracteristici speciale</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -15726,7 +15726,7 @@ Directly</source>
     </message>
     <message>
         <source>XMLStructure</source>
-        <translation type="unfinished"></translation>
+        <translation>Structură XML</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -15734,7 +15734,7 @@ Directly</source>
     </message>
     <message>
         <source>structure</source>
-        <translation type="unfinished"></translation>
+        <translation>structură</translation>
     </message>
 </context>
 <context>
@@ -15915,7 +15915,7 @@ Directly</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracteristici speciale</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -16145,7 +16145,7 @@ Directly</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracteristici speciale</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>

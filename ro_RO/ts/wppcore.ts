@@ -157,7 +157,7 @@
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această funcție este oferită în WPS Office 2009 Profesional.</translation>
     </message>
 </context>
 <context>
@@ -2475,16 +2475,16 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente WPS Office suportă numai vizualizarea documentelor Microsofot Office 2010, nu puteți edita sau salva. Doriți să deschideți documentul în mod vizualizare?</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente WPS Office suportă numai vizualizarea documentelor Microsofot Office 2010, nu puteți salva.</translation>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished">Prezentare</translation>
+        <translation>Prezentare</translation>
     </message>
 </context>
 <context>
@@ -5543,12 +5543,12 @@ Doriți să modificați numele dosarului de la &quot;%s&quot;  în &quot;%s&quot
     <message>
         <source>Canceled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anulat de utilizator.</translation>
     </message>
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide dosarul %s poate fi într-o cale nedisponibilă, sau este protejat de parolă, sau calea dosarului nu există sau calea dosarului este prea lungă.</translation>
     </message>
 </context>
 <context>
@@ -6660,7 +6660,8 @@ This backup will be saved to(%s)</source>
         <source>Each slide in your presentation has been saved as a separate file in the folder
 %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fiecare diapozitiv în prezentare a fost salvat ca un fișier separat în dosarul
+%s .</translation>
     </message>
 </context>
 </TS>

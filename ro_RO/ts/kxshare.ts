@@ -3953,7 +3953,7 @@ Click here to sign in.</source>
     <name>KxPicksolutionDlg</name>
     <message>
         <source>Choose XML Expansion Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți pachetul de expansiune XML</translation>
     </message>
     <message>
         <source>One or more XML expansion packs are available for this file. Choose one from the list below.</source>
@@ -3961,7 +3961,7 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>No XML expansion pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu sunt pachete de expansiune XML</translation>
     </message>
 </context>
 <context>

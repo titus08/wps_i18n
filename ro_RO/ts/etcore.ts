@@ -2736,7 +2736,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Invalid reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Argument referință nevalid la:</translation>
     </message>
     <message>
         <source>No RETURN() or HALT() function found on macro sheet!</source>
@@ -3041,7 +3041,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Operation condition</source>
         <comment>TX_ETDBE_OPR</comment>
-        <translation type="unfinished">Condiție operație</translation>
+        <translation>Condiție operație</translation>
     </message>
     <message>
         <source>greater than</source>
@@ -3076,12 +3076,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>like</source>
         <comment>TX_ETDBE_OPR_LIKE</comment>
-        <translation type="unfinished"></translation>
+        <translation>apreciat</translation>
     </message>
     <message>
         <source>not like</source>
         <comment>TX_ETDBE_OPR_NOTLIKE</comment>
-        <translation type="unfinished"></translation>
+        <translation>neapreciat</translation>
     </message>
     <message>
         <source>Relation</source>
@@ -7831,7 +7831,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Number format is too long.</source>
         <comment>TX_IncreaseDecimal_NumberFormat_Too_Long_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formatul numărului este prea lung.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Please enter a number within this range and try again.</source>
@@ -8800,7 +8800,7 @@ Se continuă?</translation>
     <message>
         <source>Guess</source>
         <comment>TX_ParaInfo_107</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aproximare</translation>
     </message>
     <message>
         <source>Start_period</source>

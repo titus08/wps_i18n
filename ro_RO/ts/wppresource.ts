@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ro_RO">
 <defaultcodec>UTF-8</defaultcodec>
@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -502,7 +502,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -574,7 +574,7 @@
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -851,7 +851,7 @@
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1234,7 +1234,7 @@
     <name>classics.shadow_settings</name>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -1463,7 +1463,7 @@ master</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -2417,7 +2417,7 @@ pornit</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>More</source>
@@ -3027,7 +3027,7 @@ Effects</source>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control telefon mobil</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -3216,7 +3216,7 @@ curent</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți poză online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3264,7 +3264,7 @@ curent</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>More</source>
@@ -3541,7 +3541,7 @@ de fundal</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatură artistică</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -3582,7 +3582,7 @@ Footer</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducere miniatură artistică</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -3669,7 +3669,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotecă diapozitiv</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -3716,7 +3716,7 @@ diapozitiv</translation>
     <name>ongmani.ct_orgchart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pct</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
@@ -3724,7 +3724,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pct</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
@@ -3732,7 +3732,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pct</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -3740,7 +3740,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pct</translation>
     </message>
     <message>
         <source>1 pt.</source>
@@ -3748,7 +3748,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pct</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -3756,7 +3756,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pct</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
@@ -3764,7 +3764,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pct</translation>
     </message>
     <message>
         <source>3 pt.</source>
@@ -3772,7 +3772,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pct</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
@@ -3780,7 +3780,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pct</translation>
     </message>
     <message>
         <source>6 pt.</source>
@@ -3888,7 +3888,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -3920,7 +3920,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linii modelate</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -4030,7 +4030,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Resize shape to fit text</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionează forma pentru a se potrivi cu textul</translation>
     </message>
     <message>
         <source>Right Hanging</source>
@@ -4138,7 +4138,7 @@ Picture</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatură artistică</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4187,7 +4187,7 @@ Pictures</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4235,11 +4235,11 @@ Pictures</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducere miniatură artistică</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți poză online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4263,7 +4263,7 @@ Pictures</source>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -4572,7 +4572,7 @@ tipărire</translation>
     </message>
     <message>
         <source>Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversie</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -4707,7 +4707,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -5002,7 +5002,7 @@ master</translation>
     <name>ongmani.ct_slideshow</name>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control telefon mobil</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -5441,7 +5441,7 @@ fereastra</translation>
     </message>
     <message>
         <source>Tile Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Țiglă orizontală</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -5527,7 +5527,7 @@ On/Off</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -5956,7 +5956,7 @@ Spacing</source>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -6161,7 +6161,7 @@ Shape</source>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control telefon mobil</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -6249,7 +6249,7 @@ Shape</source>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotecă diapozitiv</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -6284,7 +6284,7 @@ Shape</source>
     <name>popupmenu</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pct</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
@@ -6292,7 +6292,7 @@ Shape</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pct</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
@@ -6300,31 +6300,31 @@ Shape</source>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pct</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pct</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pct</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pct</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pct</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pct</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pct</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
@@ -6477,7 +6477,7 @@ Shape</source>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation type="unfinished"></translation>
+        <translation>Pix</translation>
     </message>
     <message>
         <source>Black Screen</source>
@@ -6566,7 +6566,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatură artistică</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -6658,7 +6658,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -6854,7 +6854,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -6866,7 +6866,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier pachet</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -6882,11 +6882,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Întoarce orizontal</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Întoarce vertical</translation>
     </message>
     <message>
         <source>Font</source>
@@ -6926,7 +6926,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -6990,7 +6990,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducere miniatură artistică</translation>
     </message>
     <message>
         <source>Insert Columns Left</source>
@@ -7074,7 +7074,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil linie</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -7082,11 +7082,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>Macro</source>
@@ -7172,7 +7172,7 @@ master</translation>
     </message>
     <message>
         <source>New Slide Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv online nou</translation>
     </message>
     <message>
         <source>New Title Master</source>
@@ -7264,7 +7264,7 @@ master</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linii modelate</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -8313,7 +8313,7 @@ implicat</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -8863,7 +8863,7 @@ implicat</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control telefon mobil</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -9050,7 +9050,7 @@ curent</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți poză online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -9094,7 +9094,7 @@ curent</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>Media</source>
@@ -9395,7 +9395,7 @@ curent</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatură artistică</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -9439,7 +9439,7 @@ curent</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducere miniatură artistică</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -9447,7 +9447,7 @@ curent</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți poză online</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -9519,7 +9519,7 @@ curent</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotecă diapozitiv</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -9706,7 +9706,7 @@ curent</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9738,7 +9738,7 @@ curent</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linii modelate</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -9961,7 +9961,7 @@ subordonat</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatură artistică</translation>
     </message>
     <message>
         <source>Color</source>
@@ -10053,7 +10053,7 @@ subordonat</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducere miniatură artistică</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -10081,7 +10081,7 @@ subordonat</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -10502,7 +10502,7 @@ subordonat</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -10662,7 +10662,7 @@ master</translation>
     <name>rainbow.ct_slideshow</name>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control telefon mobil</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -11052,7 +11052,7 @@ Effects</source>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Pipetă</translation>
     </message>
     <message>
         <source>Infinity</source>
@@ -11458,7 +11458,7 @@ umbră</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct punct</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -11665,7 +11665,7 @@ umbră</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control telefon mobil</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -11753,7 +11753,7 @@ umbră</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotecă diapozitiv</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -11836,7 +11836,7 @@ umbră</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotecă diapozitiv</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -11926,7 +11926,7 @@ umbră</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracteristici speciale</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -12004,7 +12004,7 @@ umbră</translation>
     </message>
     <message>
         <source>Change Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă șablon</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -12060,7 +12060,7 @@ umbră</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Creează link nor</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -12188,7 +12188,7 @@ curent</translation>
     </message>
     <message>
         <source>Magic</source>
-        <translation type="unfinished"></translation>
+        <translation>Magic</translation>
     </message>
     <message>
         <source>MailFeedBack</source>
@@ -12417,7 +12417,7 @@ curent</translation>
     </message>
     <message>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bară de stare</translation>
     </message>
     <message>
         <source>Style</source>
@@ -12711,7 +12711,7 @@ curent</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracteristici speciale</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -12952,7 +12952,7 @@ curent</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracteristici speciale</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>

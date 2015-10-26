@@ -2214,7 +2214,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
@@ -2229,7 +2229,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>cbxRefType</source>
-        <translation type="unfinished"></translation>
+        <translation>cbxRefType</translation>
     </message>
     <message>
         <source>cbHyperlink</source>
@@ -2540,7 +2540,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Document&amp;Field Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume &amp;câmp document:</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then &amp;counted in. </source>
@@ -2638,7 +2638,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>&amp;Dropped</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aruncat</translation>
     </message>
     <message>
         <source>Options</source>
@@ -2741,7 +2741,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Items in Drop-down list</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemente în lista desfășurată</translation>
     </message>
 </context>
 <context>
@@ -2772,7 +2772,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>编辑字典</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑字典</translation>
     </message>
 </context>
 <context>
@@ -2796,7 +2796,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Remember my choice, and don&apos;t prompt me again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ține minte alegerea și nu afișa din nou.</translation>
     </message>
 </context>
 <context>
@@ -2970,7 +2970,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Number format:</source>
-        <translation type="unfinished">Format &amp;număr:</translation>
+        <translation>Format &amp;număr:</translation>
     </message>
     <message>
         <source>&amp;Table area:</source>
@@ -3040,7 +3040,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Add &amp;path to filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă &amp;calea la numele fișierului</translation>
     </message>
 </context>
 <context>
@@ -3304,7 +3304,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Replace options</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește opțiuni</translation>
     </message>
 </context>
 <context>
@@ -3394,7 +3394,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>S&amp;mall caps</source>
-        <translation>Litere mari de dimensiune mică</translation>
+        <translation>Litere mari de dimensiune &amp;mică</translation>
     </message>
     <message>
         <source>Double strikethrou&amp;gh</source>
@@ -3769,7 +3769,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Botto&amp;m:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dedesub&amp;t:</translation>
     </message>
     <message>
         <source>Ri&amp;ght:</source>
@@ -3971,11 +3971,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Below selection Row</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sub selecția rândului</translation>
     </message>
     <message>
         <source>&amp;Above selection Row</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deasupra selecției rândului</translation>
     </message>
     <message>
         <source>&amp;Number of rows:</source>
@@ -4294,7 +4294,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Rev&amp;ised document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document rev&amp;izuit</translation>
     </message>
     <message>
         <source>New doc&amp;ument</source>
@@ -4575,7 +4575,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Style &amp;type:</source>
-        <translation type="unfinished">&amp;Tip stil:</translation>
+        <translation>&amp;Tip stil:</translation>
     </message>
     <message>
         <source>cbxStyleType</source>
@@ -4595,7 +4595,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Style &amp;based on:</source>
-        <translation type="unfinished">Stil &amp;bazat pe:</translation>
+        <translation>Stil &amp;bazat pe:</translation>
     </message>
     <message>
         <source>cbxStyleBaseOn</source>
@@ -4607,7 +4607,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Style for following paragraph:</source>
-        <translation type="unfinished">&amp;Stil pentru următorul paragraf:</translation>
+        <translation>&amp;Stil pentru următorul paragraf:</translation>
     </message>
     <message>
         <source>cbxStyleFollow</source>
@@ -5714,15 +5714,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>D&amp;ocument fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmpuri d&amp;ocument</translation>
     </message>
     <message>
         <source>Compatibility options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni de compatibilitate</translation>
     </message>
     <message>
         <source>Compatibilit&amp;y options for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni de compatibilitat&amp;e pentru:</translation>
     </message>
     <message>
         <source>Split &amp;apart page break and paragraph mark</source>
@@ -5777,7 +5777,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Number &amp;format:</source>
-        <translation type="unfinished">&amp;Format număr:</translation>
+        <translation>&amp;Format număr:</translation>
     </message>
     <message>
         <source>&amp;Show numher on first page</source>
@@ -5793,7 +5793,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Continue from previous section</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Continuă de la secțiunea anterioară</translation>
     </message>
     <message>
         <source>Start &amp;at:</source>
@@ -6315,7 +6315,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;At:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;La:</translation>
     </message>
     <message>
         <source>Aft&amp;er:</source>
@@ -6431,7 +6431,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished">&amp;Utilizați regulile asiatice pentru controlul primelor și ultimelor caractere</translation>
+        <translation>&amp;Utilizează regulile asiatice pentru controlul primelor și ultimelor caractere</translation>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
@@ -6439,7 +6439,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Allow ha&amp;nging punctuation</source>
-        <translation type="unfinished">Permite ag&amp;ățarea punctuației</translation>
+        <translation>Permite ag&amp;ățarea punctuației</translation>
     </message>
     <message>
         <source>Character spacing</source>
@@ -6451,15 +6451,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Automatically adjust spac&amp;e between Asian and Latin text</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustează automat spațiu&amp;l dintre textul asiatic și latin</translation>
     </message>
     <message>
         <source>Automatically adjust &amp;space between Asian text and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustează automat &amp;spațiul dintre textul asiatic și numere</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aliniament text:</translation>
     </message>
     <message>
         <source>Top</source>
@@ -6483,7 +6483,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Tabs...</source>
-        <translation type="unfinished">&amp;File...</translation>
+        <translation>&amp;File...</translation>
     </message>
     <message>
         <source>Right-to-le&amp;ft</source>
@@ -6950,31 +6950,31 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgTableProperties</name>
     <message>
         <source>Table Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietăți tabel</translation>
     </message>
     <message>
         <source>&amp;Table</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tabel</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Dimensiune</translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <source>Preferred &amp;width:</source>
-        <translation type="unfinished">&amp;Lățime preferată:</translation>
+        <translation>&amp;Lățime preferată:</translation>
     </message>
     <message>
         <source>pt, 1, 0, 1584, 1</source>
-        <translation type="unfinished">pct, 1, 0, 1584, 1</translation>
+        <translation>pct, 1, 0, 1584, 1</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished">Aliniament</translation>
+        <translation>Aliniament</translation>
     </message>
     <message>
         <source>Rig&amp;ht</source>
-        <translation type="unfinished"></translation>
+        <translation>Dre&amp;apta</translation>
     </message>
     <message>
         <source>&amp;Indent from left:</source>
@@ -6982,23 +6982,23 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, 1, -1080, 1080, 1</source>
-        <translation type="unfinished">pct, 2, -1080, 1080, 1 {1,?}</translation>
+        <translation>pct, 1, -1080, 1080, 1</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished">&amp;Centru</translation>
+        <translation>&amp;Centru</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished">&amp;Stânga</translation>
+        <translation>&amp;Stânga</translation>
     </message>
     <message>
         <source>Text wrapping</source>
-        <translation type="unfinished">Încadrarea textului</translation>
+        <translation>Încadrarea textului</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished">&amp;Nimic</translation>
+        <translation>&amp;Nimic</translation>
     </message>
     <message>
         <source>&amp;Around</source>
@@ -7006,7 +7006,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Positioning...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Se poziționează...</translation>
     </message>
     <message>
         <source>&amp;Borders and Shading...</source>
@@ -7014,15 +7014,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished">&amp;Opțiuni...</translation>
+        <translation>&amp;Opțiuni...</translation>
     </message>
     <message>
         <source>&amp;Row</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rând</translation>
     </message>
     <message>
         <source>Rows 1-4:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rânduri 1-4:</translation>
     </message>
     <message>
         <source>&amp;Specify height:</source>
@@ -7030,7 +7030,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, 1, 1, 1584, 1</source>
-        <translation type="unfinished">pct, 1, 1, 1584, 1</translation>
+        <translation>pct, 1, 1, 1584, 1</translation>
     </message>
     <message>
         <source>Row height &amp;is:</source>
@@ -7038,15 +7038,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>At least</source>
-        <translation type="unfinished">Cel puțin</translation>
+        <translation>Cel puțin</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished">Exact</translation>
+        <translation>Exact</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opțiuni</translation>
+        <translation>Opțiuni</translation>
     </message>
     <message>
         <source>Allow row to brea&amp;k across pages</source>
@@ -7058,7 +7058,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Previous Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Rândul &amp;anterior</translation>
     </message>
     <message>
         <source>&amp;Next Row</source>
@@ -7066,19 +7066,19 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Col&amp;umn</source>
-        <translation type="unfinished"></translation>
+        <translation>Col&amp;oană</translation>
     </message>
     <message>
         <source>Columns 1-5:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloane 1-5:</translation>
     </message>
     <message>
         <source>pt, 1, 4.5, 1584, 1</source>
-        <translation type="unfinished">pct, 1, 4.5, 1584, 1</translation>
+        <translation>pct, 1, 4.5, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Previous Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloana &amp;anterioară</translation>
     </message>
     <message>
         <source>&amp;Next Column</source>
@@ -7086,24 +7086,24 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>C&amp;ell</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;elulă</translation>
     </message>
     <message>
         <source>Size</source>
         <comment>Cell</comment>
-        <translation type="unfinished">Dimensiune</translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <source>Vertical alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniament vertical</translation>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished">Su&amp;s</translation>
+        <translation>Su&amp;s</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dedesubt</translation>
     </message>
 </context>
 <context>
@@ -7252,7 +7252,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Calculate on exit</source>
-        <translation type="unfinished">&amp;Calculează la ieșire</translation>
+        <translation>&amp;Calculează la ieșire</translation>
     </message>
     <message>
         <source>&amp;Maximum length:</source>
@@ -7599,11 +7599,11 @@ Example: +4 will move forward four items:</source>
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Închide</translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>The document field with this name has already existed. Do you want to cover it?</source>
@@ -7713,43 +7713,43 @@ Example: +4 will move forward four items:</source>
     <name>KxExportToOFDDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished">Introduceți parola configurării permisiunilor!</translation>
+        <translation>Introduceți parola configurării permisiunilor!</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Confirmarea parolei nu se potrivește.</translation>
+        <translation>Confirmarea parolei nu se potrivește.</translation>
     </message>
     <message>
         <source>Permission Password and Document Open Password must be different.</source>
-        <translation type="unfinished">Parola permisiuni și parola deschidere document trebuie să fie diferite.</translation>
+        <translation>Parola permisiuni și parola deschidere document trebuie să fie diferite.</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
-        <translation type="unfinished">Specificați numele de fișier.</translation>
+        <translation>Specificați numele de fișier.</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished">Numele de fișier este la fel ca al unui director existent.</translation>
+        <translation>Numele de fișier este la fel ca al unui director existent.</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished">Directorul specificat nu există.</translation>
+        <translation>Directorul specificat nu există.</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
-        <translation type="unfinished">Nu aveți permisiunea să scrieți fișiere în acest director.</translation>
+        <translation>Nu aveți permisiunea să scrieți fișiere în acest director.</translation>
     </message>
     <message>
         <source>Save OFD File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează fișierul OFD ca</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier OFD(*.ofd)|*.ofd|All File(*.*)|*.*</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
-        <translation type="unfinished">Fișierul pe care l-ați specificat există deja. Sigur înlocuiți fișierul existent?</translation>
+        <translation>Fișierul pe care l-ați specificat există deja. Sigur înlocuiți fișierul existent?</translation>
     </message>
     <message>
         <source>This is not a valid page range.</source>
@@ -7776,7 +7776,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Închide</translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -7784,7 +7784,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Exporting page %1...</source>
-        <translation type="unfinished">Se exportă pagina %1...</translation>
+        <translation>Se exportă pagina %1...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -8084,15 +8084,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished">/</translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>root directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Director rădăcină</translation>
     </message>
     <message>
         <source>D:\\</source>
-        <translation type="unfinished"></translation>
+        <translation>D:\\</translation>
     </message>
     <message>
         <source>D drive</source>
@@ -8116,7 +8116,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume fișier</translation>
     </message>
     <message>
         <source>Forma&amp;t:</source>
@@ -8124,7 +8124,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Document &amp;property:</source>
-        <translation type="unfinished">&amp;Proprietate document:</translation>
+        <translation>&amp;Proprietate document:</translation>
     </message>
     <message>
         <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
@@ -8136,19 +8136,19 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu text</translation>
     </message>
     <message>
         <source>Insert text from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu text din fișier</translation>
     </message>
     <message>
         <source>Insert file name of the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu numele de fișier al documentului</translation>
     </message>
     <message>
         <source>(Nothing)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nimic)</translation>
     </message>
     <message>
         <source>Upper</source>
@@ -9716,11 +9716,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>No Documents Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu sunt documente deschise</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu aveți permisiunea de a scrie fișierul de backup la &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -10480,7 +10480,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Cancel(&amp;C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează(&amp;C)</translation>
     </message>
     <message>
         <source>Cann&apos;t add XML elements in multi areas.</source>
@@ -11223,7 +11223,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Please input the text of the watermark.</source>
-        <translation>Introduceți textul logo</translation>
+        <translation>Introduceți textul logo.</translation>
     </message>
     <message>
         <source>Picture Tooltip</source>
@@ -11480,11 +11480,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>URI:</source>
-        <translation type="unfinished"></translation>
+        <translation>URI:</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale:</translation>
     </message>
     <message>
         <source>XMLExtend</source>
@@ -11496,7 +11496,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume:</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -11508,7 +11508,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Delete(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge(&amp;R)</translation>
     </message>
     <message>
         <source>Available XMLExtend Pack</source>
@@ -11520,26 +11520,26 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Delete(&amp;E)</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge(&amp;E)</translation>
     </message>
     <message>
         <source>Update(&amp;P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează(&amp;P)</translation>
     </message>
     <message>
         <source>Add(&amp;D)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă(&amp;D)...</translation>
     </message>
 </context>
 <context>
     <name>KxWpsDlgXMLSchemaLibrary</name>
     <message>
         <source>Schema Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotecă schemă</translation>
     </message>
     <message>
         <source>Schemas</source>
-        <translation type="unfinished"></translation>
+        <translation>Scheme</translation>
     </message>
     <message>
         <source>&amp;Select a schema:</source>
@@ -11563,26 +11563,26 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>URI:</source>
-        <translation type="unfinished"></translation>
+        <translation>URI:</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale:</translation>
     </message>
 </context>
 <context>
     <name>KxWpsDlgXMLSchemaSetting</name>
     <message>
         <source>Schema Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări schemă</translation>
     </message>
     <message>
         <source>Edit schema information</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare informație schemă</translation>
     </message>
     <message>
         <source>&amp;URI</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;URI</translation>
     </message>
     <message>
         <source>&amp;Alias</source>
@@ -11590,11 +11590,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished">&amp;Locație</translation>
+        <translation>&amp;Locație</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Navighează...</translation>
+        <translation>&amp;Navighează...</translation>
     </message>
     <message>
         <source>&amp;Changes affect current user only</source>
@@ -12066,7 +12066,7 @@ to a Word XML document.</source>
     <name>KxWpsPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisiunea mea</translation>
     </message>
     <message>
         <source>You are currently authenticated to view this document as:	</source>
@@ -12074,35 +12074,35 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Change user...</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă utilizator...</translation>
     </message>
     <message>
         <source>You have the following permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aveți următoarele permisiuni:</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Vizualizare</translation>
+        <translation>Vizualizare</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Editare</translation>
+        <translation>Editare</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiază</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Tipărește</translation>
+        <translation>Tipărește</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Salvează</translation>
+        <translation>Salvează</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă</translation>
     </message>
     <message>
         <source>Access the document programmatically</source>
@@ -12110,23 +12110,23 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Full Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control total</translation>
     </message>
     <message>
         <source>(N/A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(N/A)</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume utilizator</translation>
     </message>
     <message>
         <source>Permission expires on:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisiunea expiră în:</translation>
     </message>
     <message>
         <source>Request additional permissions…</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicit permisiuni suplimentare...</translation>
     </message>
 </context>
 <context>
@@ -12161,7 +12161,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>În linie cu textul</translation>
     </message>
 </context>
 <context>
@@ -12620,7 +12620,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>XML Schema</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemă XML</translation>
     </message>
     <message>
         <source>Add XMLExtend Pack</source>
@@ -12632,7 +12632,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Add Schema</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă schemă</translation>
     </message>
     <message>
         <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
@@ -12652,7 +12652,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source> [disabled] </source>
-        <translation type="unfinished"></translation>
+        <translation> [dezactivat] </translation>
     </message>
 </context>
 <context>
@@ -12734,11 +12734,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Închide</translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Layout options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni aspect</translation>
     </message>
 </context>
 <context>
@@ -12757,7 +12757,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Schema Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotecă schemă</translation>
     </message>
     <message>
         <source>This will remove the schema and all associated files from the schema library. This may affect anyapplication that uses this schema. Do you want to continue?</source>
@@ -12772,7 +12772,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Schema Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliotecă schemă</translation>
     </message>
     <message>
         <source>The schema you spacified uses a URI that is already in use by another schema. Click Browse to specify a schema tha uses a different URI, or click Cancel,
@@ -12849,7 +12849,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nici o macrocomandă nu se înregistrează acum. Apăsați pentru a începe înregistrarea unei noi macrocomenzi.</translation>
     </message>
 </context>
 <context>
@@ -12900,15 +12900,15 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">Salvează &amp;la</translation>
+        <translation>Salvează &amp;la</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Navighează...</translation>
+        <translation>&amp;Navighează...</translation>
     </message>
     <message>
         <source>Page range</source>
@@ -12916,47 +12916,47 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">Tot</translation>
+        <translation>Tot</translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished">Pagina curentă</translation>
+        <translation>Pagina curentă</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecție</translation>
     </message>
     <message>
         <source>Page(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină(i)</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>De la:</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished"></translation>
+        <translation>La:</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished">Opțiuni export</translation>
+        <translation>Opțiuni export</translation>
     </message>
     <message>
         <source>Summar&amp;y information</source>
-        <translation type="unfinished">Rezuma&amp;t informație</translation>
+        <translation>Rezuma&amp;t informație</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished">&amp;Comentariu nou</translation>
+        <translation>&amp;Comentariu nou</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
-        <translation type="unfinished">&amp;Hyperlink</translation>
+        <translation>&amp;Hyperlink</translation>
     </message>
     <message>
         <source>Li&amp;nks of footnotes and endnotes</source>
-        <translation type="unfinished">Li&amp;nkuri la note de subsol și note de final</translation>
+        <translation>Li&amp;nkuri la note de subsol și note de final</translation>
     </message>
     <message>
         <source>Placeholder</source>
@@ -12964,7 +12964,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Boo&amp;kmark</source>
-        <translation type="unfinished">Semn &amp;de carte</translation>
+        <translation>Semn &amp;de carte</translation>
     </message>
     <message>
         <source>&amp;Revision</source>
@@ -12976,15 +12976,15 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
-        <translation type="unfinished">Convertește alte &amp;stiluri la semne de carte</translation>
+        <translation>Convertește alte &amp;stiluri la semne de carte</translation>
     </message>
     <message>
         <source>Convert c&amp;ustom styles to bookmarks</source>
-        <translation type="unfinished">Convertește stiluri p&amp;ersonalizate la semne de carte</translation>
+        <translation>Convertește stiluri p&amp;ersonalizate la semne de carte</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished">Configurări permisiuni</translation>
+        <translation>Configurări permisiuni</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
@@ -12992,11 +12992,11 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">&amp;Parolă:</translation>
+        <translation>&amp;Parolă:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished">Con&amp;firmare:</translation>
+        <translation>Con&amp;firmare:</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
@@ -13004,66 +13004,66 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished">Permite să modi&amp;fice</translation>
+        <translation>Permite să modi&amp;fice</translation>
     </message>
     <message>
         <source>Permit to c&amp;opy</source>
-        <translation type="unfinished">Permite să cop&amp;ieze</translation>
+        <translation>Permite să cop&amp;ieze</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished">Permite să &amp;adauge comentarii</translation>
+        <translation>Permite să &amp;adauge comentarii</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
-        <translation type="unfinished">Permisiuni ti&amp;părire:</translation>
+        <translation>Permisiuni ti&amp;părire:</translation>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished">Permisiuni tipărire</translation>
+        <translation>Permisiuni tipărire</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">Tipărirea nu este permisă</translation>
+        <translation>Tipărirea nu este permisă</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">Tipărire calitate redusă</translation>
+        <translation>Tipărire calitate redusă</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">Tipărire liberă</translation>
+        <translation>Tipărire liberă</translation>
     </message>
     <message>
         <source>File open password:</source>
-        <translation type="unfinished">Parolă deschidere fișier:</translation>
+        <translation>Parolă deschidere fișier:</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished">Parol&amp;ă:</translation>
+        <translation>Parol&amp;ă:</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
-        <translation type="unfinished">Con&amp;firmare:</translation>
+        <translation>Con&amp;firmare:</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished">Închide când e&amp;xportul s-a terminat</translation>
+        <translation>Închide când e&amp;xportul s-a terminat</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă la fișier OFD</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">&amp;Deschide fișier</translation>
+        <translation>&amp;Deschide fișier</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
@@ -13194,31 +13194,31 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">Tot</translation>
+        <translation>Tot</translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished">Pagina curentă</translation>
+        <translation>Pagina curentă</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecție</translation>
     </message>
     <message>
         <source>Page(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină(i)</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>De la:</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished"></translation>
+        <translation>La:</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parolă pentru prot&amp;ejarea configurărilor permisiunii</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>

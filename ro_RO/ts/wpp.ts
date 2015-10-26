@@ -664,7 +664,7 @@
     </message>
     <message>
         <source>Unlocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Deblocat</translation>
     </message>
 </context>
 <context>
@@ -801,7 +801,7 @@
     </message>
     <message>
         <source>Try for magic!</source>
-        <translation type="unfinished"></translation>
+        <translation>Încearcă pentru magie!</translation>
     </message>
 </context>
 <context>
@@ -1009,7 +1009,7 @@
     </message>
     <message>
         <source>Magic Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Fundal magic</translation>
     </message>
 </context>
 <context>
@@ -1213,7 +1213,7 @@ dosar de redat.</translation>
     </message>
     <message>
         <source>Text Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Text etichetă</translation>
     </message>
     <message>
         <source>The document contains cloud fonts. For the convenience of your readers, 
@@ -1222,7 +1222,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Remember my choice, and don&apos;t prompt me again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reține alegerea și nu mai afișa din nou.</translation>
     </message>
 </context>
 <context>
@@ -1946,11 +1946,11 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>General options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni generale</translation>
     </message>
     <message>
         <source>Password protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Protejat cu parolă</translation>
     </message>
 </context>
 <context>
@@ -2332,7 +2332,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustare volum</translation>
     </message>
 </context>
 <context>
@@ -2652,84 +2652,83 @@ imprimantă cât și pentru ecran.</translation>
     <name>KxExportOFDDlg</name>
     <message>
         <source>Save OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează fișier OFD</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd||</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier OFD(*.ofd)|*.ofd||</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished">Fișe</translation>
+        <translation>Fișe</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished">Notificări</translation>
+        <translation>Notificări</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished">Introduceți parola pentru configurări permisiuni!</translation>
+        <translation>Introduceți parola pentru permisiuni configurări!</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Confirmarea parolei nu se potrivește.</translation>
+        <translation>Confirmarea parolei nu se potrivește.</translation>
     </message>
     <message>
         <source>Input permission password.</source>
-        <translation type="unfinished">Parolă intrare permisiuni.</translation>
+        <translation>Parolă intrare permisiuni.</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
-        <translation type="unfinished">Parola permisiuni și parola deschidere document trebuie să fie diferite.</translation>
+        <translation>Parola permisiuni și parola deschidere document trebuie să fie diferite.</translation>
     </message>
     <message>
         <source>Invalid input.        </source>
-        <translation type="unfinished">Intrare nevalidă.        </translation>
+        <translation>Intrare nevalidă.        </translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished">Fișierul pe care l-ați specificat există deja. Doriți să îl înlocuiți și să 
-continuați?</translation>
+        <translation>Fișierul pe care l-ați specificat există deja. Doriți să îl înlocuiți și să continuați?</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished">Numele fișierului este același ca un director existent.</translation>
+        <translation>Numele fișierului este același ca un director existent.</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished">Directorul specificat nu există.</translation>
+        <translation>Directorul specificat nu există.</translation>
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
-        <translation type="unfinished">Nu aveți permisiunea să scrieți fișiere în acest director.</translation>
+        <translation>Nu aveți permisiunea să scrieți fișiere în acest director.</translation>
     </message>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
-        <translation type="unfinished">Diapozitivul selectat pentru export nu există. Selectați un altul.</translation>
+        <translation>Diapozitivul selectat pentru export nu există. Selectați un altul.</translation>
     </message>
     <message>
         <source>All slides in this custom show are hidden.</source>
-        <translation type="unfinished">Toate diapozitivele în această prezentare personalizată sunt ascunse.</translation>
+        <translation>Toate diapozitivele în această prezentare personalizată sunt ascunse.</translation>
     </message>
     <message>
         <source>All slides in this range are hidden.</source>
-        <translation type="unfinished">Toate diapozitivele în această limită sunt ascunse.</translation>
+        <translation>Toate diapozitivele în această limită sunt ascunse.</translation>
     </message>
     <message>
         <source>The selected slides are hidden.</source>
-        <translation type="unfinished">Diapozitivele selectate sunt ascunse.</translation>
+        <translation>Diapozitivele selectate sunt ascunse.</translation>
     </message>
     <message>
         <source>Current slide has marked as hidden.</source>
-        <translation type="unfinished">Diapozitivul curent este marcat ca ascuns.</translation>
+        <translation>Diapozitivul curent este marcat ca ascuns.</translation>
     </message>
     <message>
         <source>All slides in current presentation are hidden.</source>
-        <translation type="unfinished">Toate diapozitivele în prezentarea curentă sunt ascunse.</translation>
+        <translation>Toate diapozitivele în prezentarea curentă sunt ascunse.</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
-        <translation type="unfinished">Fie vă asigurați că diapozitivele nu mai sunt ascunse, fie alegeți să exportați diapozitive ascunse.</translation>
+        <translation>Fie vă asigurați că diapozitivele nu mai sunt ascunse, fie alegeți să exportați diapozitive ascunse.</translation>
     </message>
 </context>
 <context>
@@ -2820,47 +2819,48 @@ continuați?</translation>
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pregătește exportul fișierului OFD...</translation>
     </message>
     <message>
         <source>User canceled operation.</source>
-        <translation type="unfinished">Utilizatorul a anulat acțiunea.</translation>
+        <translation>Utilizatorul a anulat acțiunea.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Închide</translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Exporting document information...</source>
-        <translation type="unfinished">Se exportă informația documentului...</translation>
+        <translation>Se exportă informația documentului...</translation>
     </message>
     <message>
         <source>Exporting No.</source>
-        <translation type="unfinished">Nu se exportă.</translation>
+        <translation>Nu se exportă.</translation>
     </message>
     <message>
         <source> Page...</source>
-        <translation type="unfinished"> Pagină...</translation>
+        <translation> Pagină...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished">Se exportă etichetele...</translation>
+        <translation>Se exportă etichetele...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportul fișierului OFD s-a terminat.</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertorul OFD a întâmpinat o problemă de alocare memorie. Reduceți 
+dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation a întâmpinat o eroare la încercarea de export ca OFD!</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"></translation>
+        <translation>A intervenit o eroare la deschiderea fișierului OFD!</translation>
     </message>
 </context>
 <context>
@@ -3158,11 +3158,11 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu aveți permisiunea să scrieți fișierul de rezervă în &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Confirmarea parolei nu se potrivește.</translation>
+        <translation>Confirmarea parolei nu se potrivește.</translation>
     </message>
 </context>
 <context>
@@ -4547,218 +4547,218 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>kdlgExportToOFD</name>
     <message>
         <source>Export OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă fișier OFD</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">Salvează &amp;la</translation>
+        <translation>Salvează &amp;la</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Navighează...</translation>
+        <translation>&amp;Navighează...</translation>
     </message>
     <message>
         <source>Export range</source>
-        <translation type="unfinished">Exportă interval</translation>
+        <translation>Exportă interval</translation>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished">T&amp;ot</translation>
+        <translation>T&amp;ot</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitivul &amp;curent</translation>
     </message>
     <message>
         <source>&amp;Selection</source>
-        <translation type="unfinished">&amp;Selecție</translation>
+        <translation>&amp;Selecție</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentări p&amp;ersonalizate diapozitiv:</translation>
     </message>
     <message>
         <source>Sl&amp;ides:</source>
-        <translation type="unfinished">Di&amp;apozitive:</translation>
+        <translation>Di&amp;apozitive:</translation>
     </message>
     <message>
         <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
-        <translation type="unfinished">Introduceți numere diapozitiv sau limite. De exemplu, 1,3,5-12</translation>
+        <translation>Introduceți numere diapozitiv sau limite. De exemplu, 1,3,5-12</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni export</translation>
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation type="unfinished">&amp;Ce se exportă:</translation>
+        <translation>&amp;Ce se exportă:</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="unfinished">Diapozitive</translation>
+        <translation>Diapozitive</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished">Fișe</translation>
+        <translation>Fișe</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation type="unfinished">Pagini notificări</translation>
+        <translation>Notificări pagini</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation type="unfinished">Vizualizare contur</translation>
+        <translation>Vizualizare contur</translation>
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
-        <translation type="unfinished">Color/&amp;Scală de gri:</translation>
+        <translation>Color/&amp;Scală de gri:</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Culoare</translation>
+        <translation>Culoare</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation type="unfinished">Alb și negru pur</translation>
+        <translation>Alb și negru pur</translation>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
-        <translation type="unfinished">Diapozitive p&amp;e pagină:</translation>
+        <translation>Diapozitive p&amp;e pagină:</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished">2</translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished">4</translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">6</translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished">9</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>Order:</source>
-        <translation type="unfinished">Comandă:</translation>
+        <translation>Comandă:</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
-        <translation type="unfinished">Ori&amp;zontal</translation>
+        <translation>Ori&amp;zontal</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation type="unfinished">&amp;Vertical</translation>
+        <translation>&amp;Vertical</translation>
     </message>
     <message>
         <source>ICON</source>
-        <translation type="unfinished">PICTOGRAMĂ</translation>
+        <translation>PICTOGRAMĂ</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Cad&amp;ru diapozitive</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation type="unfinished">Tipărește diapozitivele &amp;ascunse</translation>
+        <translation>Tipărește diapozitivele &amp;ascunse</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished">Configurări permisiuni</translation>
+        <translation>Configurări permisiuni</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
-        <translation type="unfinished">Par&amp;olă pentru protejarea configurărilor permisiunilor</translation>
+        <translation>Par&amp;olă pentru protejarea permisiuni configurări</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">&amp;Parolă:</translation>
+        <translation>&amp;Parolă:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished">Con&amp;firmare:</translation>
+        <translation>Con&amp;firmare:</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificare: numai configurarea parolei face posibil ca să aibă efect configurările de mai jos și evită să fie modificate de alții.</translation>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation type="unfinished">Permite să modifice</translation>
+        <translation>Permite să modifice</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation type="unfinished">Permite să copieze</translation>
+        <translation>Permite să copieze</translation>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation type="unfinished">Permite să adauge comentarii</translation>
+        <translation>Permite să adauge comentarii</translation>
     </message>
     <message>
         <source>Printing permission:</source>
-        <translation type="unfinished">Permisiuni tipărire:</translation>
+        <translation>Permisiuni tipărire:</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">Tipărirea nu este permisă</translation>
+        <translation>Tipărirea nu este permisă</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">Tipărire calitate redusă</translation>
+        <translation>Tipărire calitate redusă</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">Tipărire liberă</translation>
+        <translation>Tipărire liberă</translation>
     </message>
     <message>
         <source>File open password:</source>
-        <translation type="unfinished">Parolă deschidere fișier:</translation>
+        <translation>Parolă deschidere fișier:</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished">Parol&amp;ă:</translation>
+        <translation>Parol&amp;ă:</translation>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
-        <translation type="unfinished">Confi&amp;rmare:</translation>
+        <translation>Confi&amp;rmare:</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished">Închide când e&amp;xportul s-a terminat</translation>
+        <translation>Închide când e&amp;xportul s-a terminat</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă în fișier OFD</translation>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pregătește exportul fișierului OFD...</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">&amp;Deschide fișier</translation>
+        <translation>&amp;Deschide fișier</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
@@ -4961,7 +4961,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificare: numai configurarea parolei face posibil ca să aibă efect configurările de mai jos și evită să fie modificate de alții.</translation>
     </message>
 </context>
 <context>

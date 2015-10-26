@@ -1325,7 +1325,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>A Date Occurring</source>
-        <translation type="unfinished"></translation>
+        <translation>O dată apărută</translation>
     </message>
     <message>
         <source>Yesterday</source>
@@ -2067,7 +2067,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Cells subjected to the following conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>Celulele supuse următoarelor condiții</translation>
     </message>
     <message>
         <source>Keep the cell to its former setting</source>
@@ -11487,7 +11487,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>&amp;Unchecked</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Neverificat</translation>
     </message>
     <message>
         <source>By (&amp;I):</source>

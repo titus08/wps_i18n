@@ -2820,7 +2820,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Radialized Pattern</source>
         <comment>DRAWINGSTR_TRANSFER_CIRCLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Model radial</translation>
     </message>
     <message>
         <source>Twine</source>
@@ -4156,7 +4156,7 @@ someone@example.com.</translation>
     <message>
         <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
         <comment>_kso_irmio_Error_Unexpected</comment>
-        <translation type="unfinished"></translation>
+        <translation>A intervenit o eroare neașteptată. Încercați mai târziu sau contactați administratorul de sistem.</translation>
     </message>
     <message>
         <source>Cannot use test manifests against production servers.</source>
@@ -4209,7 +4209,7 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Permission will expire within %1 days. </source>
         <comment>_kso_krim_Permission_ExpirationHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permisiunea va expira în %1 zile. </translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -6849,7 +6849,7 @@ Download the XML expansion pack?</source>
     <message>
         <source>Install this XML expansion pack failed.</source>
         <comment>kso_Smartdoc_installManifestError</comment>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat instalarea acestui pachet de extensie XML.</translation>
     </message>
 </context>
 <context>
